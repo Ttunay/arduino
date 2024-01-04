@@ -7,6 +7,7 @@ boolean led0n = false;
 void setup() {
   pinMode (LED, OUTPUT);
   pinMode (BTN, INPUT);
+  // put your setup code here, to run once:
 
 }
 void on(){
